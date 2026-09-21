@@ -1,0 +1,10 @@
+# Rust build artifacts
+**/target/
+
+# Standalone compiled binaries
+/hello_world/main
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
